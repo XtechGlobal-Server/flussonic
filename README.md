@@ -1,10 +1,10 @@
-How to install and activate Flussonic Media Server :
+# 🧹 Flussonic Install &  Uninstall Instruction
 
 If you're getting a "Permission denied" error when trying to run the Flussonic install script from this URL:
 
 https://raw.githubusercontent.com/root-hub-bd/flussonic/refs/heads/main/flussonic_install.sh
 
-🧹 Flussonic Install Instruction
+# 🧹 Flussonic Install Instruction
 
 🔧 Step-by-Step Fix
 1. Download the Script
@@ -22,9 +22,9 @@ https://raw.githubusercontent.com/root-hub-bd/flussonic/refs/heads/main/flussoni
 
 
 
-How to uninstall Flussonic Media Server :
 
-🧹 Flussonic Uninstall Instruction:
+
+# 🧹 Flussonic Uninstall Instruction:
 
 1. Download the Script
 
